@@ -45,10 +45,6 @@
   
   <a href="https://www.instagram.com/loricsilva/" target="_blank">
   <img align="center" alt="Lorena-Instagram" height="30" width="30" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" style="max-width:100%";></a>
-  
-
-### Recent Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blid-Devs&repo=ProjetoFlutter&theme=midnight-purple)](https://github.com/Blid-Devs/ProjetoFlutter)
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacsilva&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
