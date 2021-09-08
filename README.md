@@ -23,9 +23,6 @@
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%";></a>
   
    <a href="" target="_blank">
-  <img align="center" alt="Xamarin" height="30" width="30" src="https://snz04pap002files.storage.live.com/y4m1o_JUWLOmP7uH5gGIt8FBNI_xvvDTXyAyke3BaUYODQMdzaEzXK43BB178ibfjQzK-qbK_uZ8ufV-EKD9ZpxmginAKId-5hKuFndx4egAj3lqP7hTxOAC5pLNyI7p-0SF-28nsbCqvnr87SWLo_R6CxgtMaFt2JJ9nZuXfatytGfN_Q9tacuaeBrXlDZrKq6?width=256&height=256&cropmode=none" style="max-width:100%";></a>
-  
-   <a href="" target="_blank">
   <img align="center" alt="dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" style="max-width:100%";></a>
 
 ### I'm Learning
