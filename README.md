@@ -1,9 +1,16 @@
-## Hi there, I'm Lorena C Silva 👋
+## Hi! I'm Lorena C Silva 👋
 
 
-- I live in :brazil:
-- Enthusiastic T.I technician eager to contribute to team success 💻:grin:
-- I have been learning more about Flutter for my Final Paper
+- 🥰 I live in 🇧🇷
+- 💻 Enthusiastic T.I technician eager to contribute to team success :grin:
+- 👩‍💻 i'm fullstack developer with C#, NodeJs and Angular
+- ➡️ Pronouns: She/Her
+
+<div align="center">
+  <a href="https://github.com/lorenacsilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### My Skills
 
