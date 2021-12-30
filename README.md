@@ -11,7 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenacsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenacsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+  
+  <div> 
+  
    <a href="" target="_blank">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%";></a>
   
@@ -38,5 +40,9 @@
   
    <a href="" target="_blank">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="max-width:100%";></a>
+    
+  </div>
+
+  
 
 
