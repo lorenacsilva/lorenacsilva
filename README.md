@@ -32,6 +32,8 @@
   
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     
+    <iframe src=" https://media.discordapp.net/attachments/846826770598330409/925914787047673856/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></a></p>
+    
   </div>
   
   ##
@@ -40,6 +42,8 @@
   <a href="https://www.instagram.com/altgrmais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:loricristinesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorenacsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+   
     
   </div>
 
